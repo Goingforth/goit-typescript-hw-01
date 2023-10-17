@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "eslint": "^8.51.0",
+    "prettier": "^3.0.3"
+  },
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@web/dev-server": "^0.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goingforth/goit-typescript-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goingforth/goit-typescript-hw-01/issues"
+  },
+  "homepage": "https://github.com/Goingforth/goit-typescript-hw-01#readme",
+  "description": ""
+}
